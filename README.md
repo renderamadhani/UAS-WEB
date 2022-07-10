@@ -1,6 +1,6 @@
 Link Demo Aplikasi
 
-[Kas](rende.pw)
+[Kas](http://rende.pw)
 
 username: admin
 password: admin
